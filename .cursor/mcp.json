@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "dbt": {
+      "command": "uvx",
+      "args": [
+        "dbt-mcp"
+      ],
+      "env": {
+        "DBT_HOST": "https://bg908.us1.dbt.com"
+      }
+    }
+  }
+}
